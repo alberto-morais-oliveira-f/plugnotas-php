@@ -14,7 +14,7 @@ Aconselhamos a instalação do pacote pelo [Composer](https://getcomposer.org). 
 O pacote pode ser adicionado utilizando o comando do próprio composer:
 
 ```
-php composer.phar require tecnospeedsa/plugnotas:~1.4
+php composer.phar require am2tec/plugnotas:~1.4
 ```
 
 Ou adicionado manualmente no arquivo `composer.json`:
@@ -22,7 +22,7 @@ Ou adicionado manualmente no arquivo `composer.json`:
 ```
 {
   "require": {
-    "tecnospeedsa/plugnotas": "~1.4"
+    "am2tec/plugnotas": "~1.4"
   }
 }
 ```
